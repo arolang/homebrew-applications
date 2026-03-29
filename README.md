@@ -15,7 +15,7 @@ brew tap arolang/applications
 | `sf` | Midnight Commander-style terminal file manager |
 
 ```bash
-brew install sf
+brew install arolang/applications/sf
 ```
 
 ## Updating
