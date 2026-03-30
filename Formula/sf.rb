@@ -7,7 +7,7 @@ class Sf < Formula
   on_macos do
     depends_on arch: :arm64
     url "https://github.com/arolang/ShowFiles/releases/download/1.0.1/sf-macos-arm64.tar.gz"
-    sha256 "d25b114ad4e14ec8e13b37ae05cc8827d81639f891623f97b30f1cf8930b18de"
+    sha256 "af8c1f53b80b9617131cc362d59b0fe88e09894bc6060385ff2f8a8bf4d71eb7"
   end
 
   on_linux do
