@@ -6,12 +6,12 @@ class Sf < Formula
 
   on_macos do
     depends_on arch: :arm64
-    url "https://github.com/arolang/ShowFiles/releases/download/1.0.0/sf-macos-arm64.tar.gz"
+    url "https://github.com/arolang/ShowFiles/releases/download/1.0.1/sf-macos-arm64.tar.gz"
     sha256 "d25b114ad4e14ec8e13b37ae05cc8827d81639f891623f97b30f1cf8930b18de"
   end
 
   on_linux do
-    url "https://github.com/arolang/ShowFiles/releases/download/1.0.0/sf-linux-amd64.tar.gz"
+    url "https://github.com/arolang/ShowFiles/releases/download/1.0.1/sf-linux-amd64.tar.gz"
     sha256 "c7eb2abd8c9de9746a4a02addbc130da5a9ba7f8ae5955f7db90e89520a448ce"
   end
 
