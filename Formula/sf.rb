@@ -1,7 +1,7 @@
 class Sf < Formula
   desc "Midnight Commander-style terminal file manager written in ARO"
   homepage "https://github.com/arolang/ShowFiles"
-  version "1.0.1"
+  version "1.0.0"
   license "MIT"
 
   on_macos do
